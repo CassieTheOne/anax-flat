@@ -1,0 +1,33 @@
+body {
+    background-color: #e6c7a4;
+}
+
+.outer-wrap-header {
+    background-color: #ca5858;
+}
+
+.outer-wrap-footer {
+    background-color: #7f8946;
+}
+
+.f-r {
+    float: right;
+    margin: 0 0 8pt 8pt;
+}
+
+p {
+    text-align: justify;
+}
+
+.site-logo-text a {
+    color: black;
+}
+
+.toc .selected {
+    color: #7f8946;
+    background-color: #d1b697;
+}
+
+.block .toc {
+    background-color: #d1b697;
+}
