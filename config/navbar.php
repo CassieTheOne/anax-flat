@@ -14,6 +14,13 @@ return [
         // Here comes the menu structure
         "items" => [
 
+          "analysis" => [
+              "text"  => t("Analys"),
+              "url"   => $this->di->get("url")->create("analysis"),
+              "title" => t("Analys"),
+              "mark-if-parent" => true,
+          ],
+
             "report" => [
                 "text"  => t("Report"),
                 "url"   => $this->di->get("url")->create("report"),
@@ -26,6 +33,30 @@ return [
                 "url"   => $this->di->get("url")->create("about"),
                 "title" => t("About this website")
             ],
+
+            "typography" => [
+                "text"  => t("Typography"),
+                "url"   => $this->di->get("url")->create("typography"),
+                "title" => t("Typo stuff")
+            ],
+
+            "grid" => [
+                "text"  => t("Grid"),
+                "url"   => $this->di->get("url")->create("grid"),
+                "title" => t("Vertikalt grid")
+            ],
+
+            "theme" => [
+                "text"  => t("Theme"),
+                "url"   => $this->di->get("url")->create("theme"),
+                "title" => t("Themes")
+            ],
+
+            "theme-selector" => [
+                "text"  => t("Theme-selector"),
+                "url"   => $this->di->get("url")->create("theme-selector"),
+                "title" => t("Theme-selector")
+            ]
 
         ],
     ],
