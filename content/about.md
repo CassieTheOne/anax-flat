@@ -1,6 +1,7 @@
 About this site
 ==============================================
-![fall](img/about.jpg){.f-r}
+[FIGURE src="image/about.jpg?" class="figure right"]
+
 Denna webbplastsen är byggd med hjälp av ramverket Anax Flat.
 
 

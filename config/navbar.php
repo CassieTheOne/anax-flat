@@ -56,7 +56,20 @@ return [
                 "text"  => t("Theme-selector"),
                 "url"   => $this->di->get("url")->create("theme-selector"),
                 "title" => t("Theme-selector")
+            ],
+
+            "images" => [
+                "text"  => t("Images"),
+                "url"   => $this->di->get("url")->create("images"),
+                "title" => t("Images")
+            ],
+
+            "blogg" => [
+                "text"  => t("Blogg"),
+                "url"   => $this->di->get("url")->create("blogg"),
+                "title" => t("Blogg")
             ]
+
 
         ],
     ],

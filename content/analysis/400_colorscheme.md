@@ -5,7 +5,7 @@ Jag har valt att analysera soundcloud.com, euw.op.gg och amazon.co.uk. Jag valde
 
 **Amazon.co.uk:**
 
-![amazon](img/amazon.png){.analysis-img}
+[FIGURE src="image/amazon.png"]
 
 Jag tror att man har använt sig av ett split complimentary färgschema. De har använt sig av en vit bakgrund. Deras header är mörkgrå, den är nästan lite blåacktig. Dom har lite brun/beiget på sidan skulle dock inte tror att det används som accentfärg. Då är nog den blåacktiga black friday "skyllten" mer av en accentfärg i mina ögon.
 
@@ -17,7 +17,7 @@ Jag tycker att färg valet passar ganska bra. Det är mycket olika färger högs
 
 **Soundcloud.com:**
 
-![soundcloud](img/soundcloud1.png){.analysis-img}
+[FIGURE src="image/soundcloud1.png"]
 
 Här så tror jag inte man har utgått från något speciellt färgschema. De har använt sig av två vitanyanser och sedan använt sig av en skarp orange som accentfärg. Deras logo är orange så det är ett begripligt val.
 
@@ -29,7 +29,7 @@ Det är inte jättemycket färg på sidan om man bort ser från sidans flash-bil
 
 **OP.GG:**
 
-![opgg](img/opgg.png){.analysis-img}
+[FIGURE src="image/opgg.png"]
 
 Jag skulle nog vilja säga att deras färgschema är lite monokromiskt efter som de använder sig av så många blåanyanser. Den blå bakgrunden blir mer ljus ju längre åt höger man går. I sök rutan och där det finns content så använder de sig av vitt. Sen använder de sig a en skvätt oranget för att bryta av det blåa.
 

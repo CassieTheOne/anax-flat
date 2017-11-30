@@ -4,7 +4,7 @@ titleBreadcrumb: Home
 Min me-sida
 ===============================
 
-![hedgehog](img/hedgehog.jpg){.f-r}
+[FIGURE src="image/hedgehog.jpg?" class="figure right"]
 Mitt namn är Cassandra och jag är född och uppväxt i Skåne.
 Jag studerar på BTH på distans och läser Webbprogrammering och Databaser. På gymnasiet gick jag El och energi med datorinrikting. Det var då mitt intresse för webbutveckling och webbbprogrammering växte fram. Förutom att ha ett intresse för webbutveckling och webbbprogrammering så har jag ett ganksa stor intresse för spel.
 
