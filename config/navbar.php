@@ -46,11 +46,13 @@ return [
                 "title" => t("Vertikalt grid")
             ],
 
-            "theme" => [
-                "text"  => t("Theme"),
-                "url"   => $this->di->get("url")->create("theme"),
-                "title" => t("Themes")
+            "teman" => [
+                "text"  => t("Teman"),
+                "url"   => $this->di->get("url")->create("teman"),
+                "title" => t("Teman"),
+                "mark-if-parent" => true,
             ],
+
 
             "theme-selector" => [
                 "text"  => t("Theme-selector"),

@@ -61,10 +61,36 @@ return [
 
         "separator2" => "------------------------------------------------",
 
-        "fun"       => [
-            "title"      => "All fun, test and play, make it stand out!",
-            "class"      => "fun",
-            "stylesheets" => []
+        "skyrim"       => [
+            "title"      => "tema med bild som bakgrund",
+            "class"      => "design",
+            "stylesheets" => ["css/skyrim.min.css"]
+        ],
+
+        "texture"       => [
+            "title"      => "tema med textur",
+            "class"      => "design",
+            "stylesheets" => ["css/texture.min.css"]
+        ],
+
+        "multicolor"       => [
+            "title"      => "tema med färg och borders",
+            "class"      => "design",
+            "stylesheets" => ["css/multicolor.min.css"]
+        ],
+
+        "separator3" => "------------------------------------------------",
+
+        "contrast"       => [
+            "title"      => "Ett team med kontraster",
+            "class"      => "design",
+            "stylesheets" => ["css/contrast.min.css"]
+        ],
+
+        "simplicity"       => [
+            "title"      => "Ett team med en simpel ton",
+            "class"      => "design",
+            "stylesheets" => ["css/simplicity.min.css"]
         ],
     ]
 ];
